@@ -5,6 +5,7 @@ intensity=2.0
 saturation=1.7
 
 [Desktop Entry]
+Comment=Genome Light, Modified from Breeze by the KDE VDG.
 Name=Genome Light
 X-KDE-PluginInfo-Author=doncsugar
 X-KDE-PluginInfo-Category=
@@ -12,8 +13,8 @@ X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=LGPL
-X-KDE-PluginInfo-Name=default
-X-KDE-PluginInfo-Version=.1.41
+X-KDE-PluginInfo-Name=genome-light
+X-KDE-PluginInfo-Version=1.0.0
 X-KDE-PluginInfo-Website=
 X-Plasma-API=5.0
 
