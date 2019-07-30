@@ -1,20 +1,20 @@
 [ContrastEffect]
 enabled=true
-contrast=0.2
-intensity=2.0
-saturation=1.7
+contrast=0.4
+intensity=1.6
+saturation=1.4
 
 [Desktop Entry]
-Comment=Genome Light, Modified from Breeze by the KDE VDG.
-Name=Genome Light
+Comment=Genome Light Ultra, Modified from Breeze by the KDE VDG.
+Name=Genome Light Ultra
 X-KDE-PluginInfo-Author=doncsugar
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
-X-KDE-PluginInfo-Name=genome-light
-X-KDE-PluginInfo-Version=1.1.2
+X-KDE-PluginInfo-Name=genome-light-ultra
+X-KDE-PluginInfo-Version=2.6
 X-KDE-PluginInfo-Website=https://store.kde.org/p/1315559/
 X-Plasma-API=5.0
 
