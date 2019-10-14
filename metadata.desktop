@@ -6,7 +6,7 @@ saturation=1.4
 
 [Desktop Entry]
 Comment=Genome Light Ultra, Modified from Breeze by the KDE VDG.
-Name=Genome Light Ultra
+Name=Genome Ultra
 X-KDE-PluginInfo-Author=doncsugar
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
@@ -14,7 +14,7 @@ X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-Name=genome-light-ultra
-X-KDE-PluginInfo-Version=3.9.1
+X-KDE-PluginInfo-Version=4.0.0
 X-KDE-PluginInfo-Website=https://store.kde.org/p/1315559/
 X-Plasma-API=5.0
 
