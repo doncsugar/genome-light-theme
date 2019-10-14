@@ -1,16 +1,12 @@
 [ContrastEffect]
-contrast=1.2
+contrast=0.4
 enabled=true
-intensity=.25
-saturation=1.7 
-#contrast=.2
-#enabled=true
-#intensity=1.0
-#saturation=.8
+#intensity=1.4
+saturation=1.4
 
 [Desktop Entry]
-Comment=Genome Light Ultra, "inverted". Modified from Breeze by the KDE VDG.
-Name=Genome Light Inverted
+Comment=Genome Light Ultra Inverted, Modified from Breeze by the KDE VDG.
+Name=Genome Ultra Inverted
 X-KDE-PluginInfo-Author=doncsugar
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
@@ -18,7 +14,7 @@ X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-Name=genome-light-ultra-inverted
-X-KDE-PluginInfo-Version=3.1.2
+X-KDE-PluginInfo-Version=4.0.0
 X-KDE-PluginInfo-Website=https://store.kde.org/p/1315559/
 X-Plasma-API=5.0
 
