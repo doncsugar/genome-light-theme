@@ -5,16 +5,16 @@ contrast=0.2
 saturation=1.7
 
 [Desktop Entry]
-Comment=Genome Light Classic, Modified from Breeze by the KDE VDG.
-Name=Genome Classic
+Comment=Only the icons with few changes, Modified from Breeze by the KDE VDG.
+Name=Genome Vanilla
 X-KDE-PluginInfo-Author=doncsugar
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
-X-KDE-PluginInfo-Name=genome-light-classic
-X-KDE-PluginInfo-Version=3.0.0
+X-KDE-PluginInfo-Name=genome-light-vanilla
+X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=https://store.kde.org/p/1315559/
 X-Plasma-API=5.0
 
